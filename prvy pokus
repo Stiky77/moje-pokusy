@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>STIKO</title>    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+</head>
+
+<body>
+    
+</body>
+</html>
+
+<html>
+<head>
+<h1>MY FIRST WEB PAGE</h1>
+<hr>
+</head>
+
+<body>
+<h2>Dufam ze sa to zobrazi spravne</h2>
+
+<p>toto je mo very first <b>paragraph</b> na web page, je to len zaciatok, 
+ale kazdy musel zacvat dakde</p>
+<pre>ja
+    ty
+    on
+</pre>
+
+<hr>
+<h2>ESTE TROCHA NAVIAC</h2>
+<body>
+
+<code>WWW.stiky.sk</code>
+<br>
+<code>www.doom.cz</code>    
+
+
+<p>Ked absolvujem tento kurz, my  <i>head</i> will be as a one big searching ballon</p>
+<ul>
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Pears</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        </ul>
+
+       <blockquote>“A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.” <br> Saint Exupery</blockquote>
+
+        <img src="ralph-wave.gif" border="5" alt="">
+
+
+
+
+
+
+
+<a href="">http://www.99lime.com/_bak/topics/you-only-need-10-tags/</a>
+
+<style>
+    h1 { background-color: Orange }
+    h2 { background-color: rgb(225, 0, 255) }
+
+<blockquote>“A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.”
+
+Saint Exupery</blockquote>
+
+</html>
